@@ -1,6 +1,8 @@
 # Chat App
 
-Aplikacja - Komunikator chat
+Aplikacja - Komunikator chat.
+  - zawiera ekran logowania i rejestracji
+  - przechowuje identyfikatory użytkowników w usłudze Firebase
 
 ![Screen_1](https://github.com/dejwid03/chat_app/blob/main/screenshots/Screenshot_1715030200.png)
 ![Screen_2](https://github.com/dejwid03/chat_app/blob/main/screenshots/Screenshot_1715030571.png)
