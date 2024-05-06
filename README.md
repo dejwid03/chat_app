@@ -1,6 +1,11 @@
-# chat_app
+# Chat App
 
-A new Flutter project.
+Aplikacja - Komunikator chat
+
+![Screen_1](https://github.com/dejwid03/chat_app/blob/main/screenshots/Screenshot_1715030200.png)
+![Screen_2](https://github.com/dejwid03/chat_app/blob/main/screenshots/Screenshot_1715030571.png)
+![Screen_3](https://github.com/dejwid03/chat_app/blob/main/screenshots/Screenshot_1715030581.png)
+![Screen_4](https://github.com/dejwid03/chat_app/blob/main/screenshots/Screenshot_1715030597.png)
 
 ## Getting Started
 
